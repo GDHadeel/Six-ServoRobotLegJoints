@@ -4,7 +4,9 @@
 
 # Description
 
-This task focuses on designing and implementing the leg joints of the robot using six servo motors. The objective is to ensure smooth and efficient movement.The process includes:
+This task focuses on designing and implementing the leg joints of the robot using six servo motors. The objective is to ensure smooth and efficient movement.
+
+* The process includes:
 
 1. Joint Configuration: Determining the optimal arrangement of the six motors to achieve the desired range of motion and stability.
    

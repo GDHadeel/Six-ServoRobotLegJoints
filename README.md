@@ -13,7 +13,7 @@ This task focuses on designing and implementing the leg joints of the robot usin
 2. Mechanical Design: Creating 3D models of the joints and connecting elements to ensure robustness and lightweight construction.
 
 
-The following image illustrates the design and configuration of the robot's leg joints with the six servo motors:
+* The following image illustrates the design and configuration of the robot's leg joints with the six servo motors:
 
 
 ![Robot Legs Using 6 Motors](https://github.com/GDHadeel/Servo-Controlled-Robot-Legs/assets/126657301/07128e02-acbb-44ec-b9ba-904da0524dfc)

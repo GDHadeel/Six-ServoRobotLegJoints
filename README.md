@@ -2,7 +2,7 @@
 
 # Task 1: Designing the Robot's Leg Joints Using 6 Motors
 
-# Description:
+# Description
 
 This task focuses on designing and implementing the leg joints of the robot using six servo motors. The objective is to ensure smooth and efficient movement.The process includes:
 

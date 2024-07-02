@@ -19,3 +19,6 @@ The following image illustrates the design and configuration of the robot's leg 
 ![Robot Legs Using 6 Motors (2)](https://github.com/GDHadeel/Servo-Controlled-Robot-Legs/assets/126657301/c8eb8362-085e-4df7-bfc2-1087c93aa669)
 
 ![Robot Legs Using 6 Motors (1)](https://github.com/GDHadeel/Servo-Controlled-Robot-Legs/assets/126657301/2020d9a4-f553-48c6-8862-7cdce2727272)
+
+# Acknowledgments
+https://www.youtube.com/watch?v=tIXLJM-McRA&list=LL&index=6&t=19s

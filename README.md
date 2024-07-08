@@ -22,7 +22,6 @@ This task focuses on designing and implementing the leg joints of the robot usin
 
 ![Robot Legs Using 6 Motors (2)](https://github.com/GDHadeel/Six-ServoRobotLegJoints/assets/126657301/08a7e8be-55b1-4530-b9d9-4cabb681a133)
 
----
 
 ## Acknowledgments
 https://www.youtube.com/watch?v=tIXLJM-McRA&list=LL&index=6&t=19s

@@ -1,6 +1,6 @@
 # Six-ServoRobotLegJoints
 
-# Task 1: Designing the Robot's Leg Joints Using 6 Motors
+# Task 1: Design the robot's leg joints using 6 motors 
 
 ## Description
 
